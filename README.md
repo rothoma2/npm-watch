@@ -1,4 +1,5 @@
 # npm-watch
+![npm-watch logo](images/image.png)
 
 A comprehensive malware monitoring tool for NPM packages that helps protect your software supply chain by tracking and scanning package updates for potential security threats.
 
