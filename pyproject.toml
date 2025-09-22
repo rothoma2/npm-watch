@@ -12,6 +12,8 @@ dependencies = [
     "requests>=2.31.0"
 ]
 
+[project.scripts]
+npm-watch = "npm_watch.main:main"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
